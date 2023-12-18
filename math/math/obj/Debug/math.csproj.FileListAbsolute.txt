@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\math\math\bin\Debug\math.exe.config
+C:\Users\User\source\repos\math\math\bin\Debug\math.exe
+C:\Users\User\source\repos\math\math\bin\Debug\math.pdb
+C:\Users\User\source\repos\math\math\obj\Debug\math.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\math\math\obj\Debug\math.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\math\math\obj\Debug\math.Form1.resources
+C:\Users\User\source\repos\math\math\obj\Debug\math.Properties.Resources.resources
+C:\Users\User\source\repos\math\math\obj\Debug\math.csproj.GenerateResource.cache
+C:\Users\User\source\repos\math\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\math\math\obj\Debug\math.exe
+C:\Users\User\source\repos\math\math\obj\Debug\math.pdb
